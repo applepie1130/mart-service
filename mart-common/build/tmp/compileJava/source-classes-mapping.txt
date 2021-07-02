@@ -1,0 +1,3 @@
+com/mart/common/domain/entity/EmartEntity.java
+ com.mart.common.domain.entity.EmartEntity
+ com.mart.common.domain.entity.EmartEntity$EmartEntityBuilder

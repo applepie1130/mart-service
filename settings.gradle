@@ -1,0 +1,5 @@
+rootProject.name = 'mart-service'
+include 'mart-api'
+include 'mart-common'
+include 'mart-web'
+
